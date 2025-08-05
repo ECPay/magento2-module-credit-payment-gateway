@@ -20,7 +20,10 @@ define(
                 component: 'Ecpay_CreditPaymentGateway/js/view/payment/method-renderer/credit_gateway'
             }
         );
-        /** Add view logic here if needed */
+        /**
+    * 
+    * Add view logic here if needed 
+    */
         return Component.extend({});
     }
 );
